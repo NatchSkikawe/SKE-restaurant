@@ -1,0 +1,4 @@
+Rice;10
+Soup;30
+Noodles;40
+Lipton;20
